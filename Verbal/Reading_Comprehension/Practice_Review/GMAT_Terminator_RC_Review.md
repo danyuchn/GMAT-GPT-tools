@@ -5,8 +5,6 @@
 The **GMAT - Terminator (RC Review)** is a custom GPT designed to act as a post-class assistant, helping you interactively review the Terminator RC course.
 
 - **Name**: GMAT - Terminator (RC Review)
-- **Creator**: Not specified
-- **Status**: Not specified (assumed to be private or limited access)
 
 ## Description
 
