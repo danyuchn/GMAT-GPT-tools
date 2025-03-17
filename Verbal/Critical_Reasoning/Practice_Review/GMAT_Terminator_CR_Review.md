@@ -10,7 +10,7 @@ The **GMAT - Terminator (CR Review)** is a custom GPT designed to act as a post-
 
 ## Description
 
-A post-class assistant to help you interactively review the Terminator RC course. **Note**: Please ensure that "Search my knowledge" is enabled each time. If not, restart the conversation or remind the GPT to "search your knowledge."
+A post-class assistant to help you interactively review the Terminator CR course. **Note**: Please ensure that "Search my knowledge" is enabled each time. If not, restart the conversation or remind the GPT to "search your knowledge."
 
 ## Instructions
 
